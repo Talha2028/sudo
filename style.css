@@ -1,0 +1,17 @@
+
+a:link,
+a:visited {
+    padding: 10px 20px;
+    background-color: red;
+    color: yellow;
+    font-size: 20px;
+    text-decoration: none;
+    border-radius:20px ;
+}
+
+a:hover, 
+a:active {
+    color: red;
+    background-color: yellow;
+    cursor: pointer;
+    /* border: 2px solid; */}
